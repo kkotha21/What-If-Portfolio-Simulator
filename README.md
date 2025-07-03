@@ -1,5 +1,4 @@
-📊 What If? Portfolio Simulator
-What If? Portfolio Simulator is a full-stack web application that lets users simulate hypothetical investments and predict future stock prices using real historical data and machine learning.
+What If? Portfolio Simulator is a full- web application that lets users simulate hypothetical investments and predict future stock prices using real historical data and machine learning.
 
 🔍 Features
 💸 Simulate returns for any stock by entering a ticker, amount, buy date, and (optional) sell date
