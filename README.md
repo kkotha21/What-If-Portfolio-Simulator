@@ -1,22 +1,6 @@
 What If? Portfolio Simulator is a full- web application that lets users simulate hypothetical investments and predict future stock prices using real historical data and machine learning.
 
- Features
-- Simulate returns for any stock by entering a ticker, amount, buy date, and (optional) sell date
 
-- Visualize investment growth over time using interactive charts
-
-- Predict the next 30 days of stock prices using linear regression
-
-- Built with a Python/Flask backend and a React frontend
-
-- Tech Stack
-Frontend: React, Axios, Chart.js
-
-Backend: Flask, Python, yFinance, scikit-learn, Pandas
-
-Tools: Git, VS Code, Node.js, npm
-
-- Getting Started
 1. Clone the repo
 git clone https://github.com/kkotha21/What-If-Portfolio-Simulator.git
 cd What-If-Portfolio-Simulator
