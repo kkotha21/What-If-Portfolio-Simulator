@@ -78,7 +78,6 @@ export default function App() {
           <p><strong>Return:</strong> {result.returnPercent}%</p>
           {result.isPrediction && (
             <p style={{ color: 'orange' }}>
-              Note: This is a predicted result based on historical trends and may not reflect actual future performance.
             </p>
           )}
           <Line
